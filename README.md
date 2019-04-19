@@ -1,2 +1,3 @@
 # supportforapps
-contactme
+contact me at: alexsahagun.ortega@gmail.com
+
